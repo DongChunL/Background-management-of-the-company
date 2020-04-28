@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c16cd633-9d44-4089-bf94-8ff3e578a38a" name="localhost" url="http://localhost/结果文件">
+        <fileTransfer port="0" mountedRoot="E:\Apps\Wamp64\www" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
