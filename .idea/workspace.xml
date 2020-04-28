@@ -64,8 +64,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="396" />
-    <option name="y" value="260" />
+    <option name="x" value="482" />
+    <option name="y" value="128" />
     <option name="width" value="1689" />
     <option name="height" value="944" />
   </component>
@@ -112,10 +112,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="结果文件" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="PHPUnit.结果文件" />
